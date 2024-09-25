@@ -1,6 +1,6 @@
 export const perguntas = [
     {
-        enunciado: "O que caracteriza o racismo estrutural na sociedade?",
+        enunciado: "O que são mitos?",
         alternativas: [
             {
                 texto: "Desigualdades raciais",
