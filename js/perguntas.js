@@ -1,93 +1,93 @@
 export const perguntas = [
     {
-        enunciado: "Você quer descobrir qual é a função principal dos insetos polinizadores no ecossistema?",
+        enunciado: "O que são mitos?",
         alternativas: [
             {
-                texto: "Dispersar sementes",
+                texto: "É uma narrativa fantástica que possui o objetivo de explicar a origem de tudo aquilo que existe e é considerado importante para um determinado povo",
                 afirmacao: [
-                    "Na verdade, o papel da dispersão é mais comum em outros animais, como aves e mamíferos."
+                    "De fato povos tradicionais costumavam criar os ditos mitos para explicar tais acontecimentos "inexplicáveis", pois naqueles tempos a ciência não era um método utilizado frequentemente."
                 ],
                 proxima: 1,  // Direciona para a pergunta 2
             },
             {
-                texto: "Polinizar plantas",
+                texto: "São estados mentais em que se assume que algo é verdadeiro ou provável. Elas são expressas linguisticamente por meio de afirmações",
                 afirmacao: [
-                    "A polinização é essencial para a produção de frutos e sementes, mantendo a biodiversidade."
+                    "Apesar de em algum lugar isso fazer algum sentido, na verdade essa é a definição de uma crença, não de um mito."
                 ],
                 proxima: 1,  // Direciona para a pergunta 2
             },
         ]
     },
     {
-        enunciado: "Agora, você quer descobrir qual dos seguintes insetos é conhecido por formar colônias altamente organizadas?",
+        enunciado: "Qual a importância do folclore na cultura brasileira?",
         alternativas: [
             {
-                texto: "Formiga",
+                texto: "É um meio de aproximação entre os povos e grupos sociais e de afirmação de sua identidade cultural",
                 afirmacao: [
-                   "As formigas vivem em colônias organizadas com papéis definidos, como operárias, soldados e rainhas.",
+                   "Apesar de não ser uma resposta completamente errada, é bom lembrar de que o folclore foi e ainda é um dos pilares sociais de como toda a sociedade se formou, com milhares crescendo ouvindo tais mitos, talvez manter uma mente mais aberta da próxima aberta?",
                 ],
                 proxima: 2,  // Direciona para a pergunta 3
             },
             {
-                texto: "Grilo",
+                texto: "Simboliza a essência da cultura popular, atuando como um pilar fundamental na construção da identidade de um povo",
                 afirmacao: [
-                    "Os grilos são insetos solitários, não vivendo em colônias organizadas como as formigas ou abelhas."
+                    "Bom, a forma resumida da resposta é essa ao menos, a forma longa? Apenas pense da forma que você cresceu ouvindo histórias."
                 ],
                 proxima: 2,  // Direciona para a pergunta 3
             },
         ]
     },
     {
-        enunciado: "Você ainda pode querer saber qual inseto passa por metamorfose completa durante seu ciclo de vida?",
+        enunciado: "Passar as histórias é uma, mas também têm uma outra função, qual seria?",
         alternativas: [
             {
-                texto: "Borboleta",
+                texto: "Entender o passado, mantendo uma história e modo de vida presente na história e não esquecido no fluxo do tempo",
                 afirmacao: [
-                    " As borboletas passam por uma metamorfose completa, incluindo estágios de ovo, lagarta, pupa (crisálida) e adulto.",
+                    "Muitas coisas se perdem no fluxo do tempo da história sendo assim, continuar contando e escutando essas histórias de muitas formas serve para que essas culturas não sejam esquecidas e que no futuro as pessoas possam compreender o meio de vida dos antepassados.",
                 ],
                 proxima: 3,  // Direciona para a pergunta 4
             },
             {
-                texto: "Barata",
+                texto: "Contar como um aviso para crianças mais novas se comportarem",
                 afirmacao: [
-                    "As baratas passam por metamorfose incompleta, sem o estágio de pupa.",
+                    "Sem sombra de dúvidas essas histórias agem como um meio de aviso, porém não é correto diminuir uma cultura inteira a isso.",
                 ],
                 proxima: 3,  // Direciona para a pergunta 4
             },
         ]
     },
     {
-        enunciado: "Você também achou interessante perguntar qual inseto é considerado o mais rápido em termos de velocidade de voo?",
+        enunciado: "No fim de tudo, juntando os conhecimentos adquiridos pelas perguntas e os seus próprios, é correto dizer que essas ideias em um passado, possivelmente em um presente e futuro também, poderiam ser considerados um meio de controle?",
         alternativas: [
             {
-                texto: "Libélula",
+                texto: "Sim",
                 afirmacao: [
-                    "As libélulas são extremamente rápidas, alcançando até 56 km/h em voo.",
+                    "A resposta é correta mas apenas meio, não tem como dizer com certeza se sim ou não essas histórias puramente usadas como um meio de controle pois isso dependeria de quem as conta, num passado de fato elas eram um meio de colocar medo nas pessoas para impedi-las de cometerem "pecados" mas muitas vezes elas serviam apenas como uma explicação de uma ação impossível para acalmar a mente das pessoas, criar um ser divino e superior ao humano é um meio ortodoxo de garantir para um povo leigo que não estamos sozinhos na imensidão do universo e que em algum momento nos encontraríamos com esses seres.",
                 ],
                 proxima: 4,  // Direciona para a pergunta 5
             },
             {
-                texto: "Abelha",
+                texto: "Não",
                 afirmacao: [
-                    "As abelhas são rápidas, mas não tanto quanto as libélulas. Elas voam a cerca de 24 km/h quando estão em busca de néctar.",
+                    "Essa resposta não é errada, mas ela definitivamente vai para um lado mais oposto a correta, os mitos e histórias, para um povo no passado uma religião, agiram sim como um meio de controle populacional pois proporcionava que o povo agisse de certa maneira e evitasse certos atos, tópicos e pensamentos com o medo da punição divina que vinha com isso.",
                 ],
                 proxima: 4,  // Direciona para a pergunta 5
             },
         ]
     },
     {
-        enunciado: "Por fim você quer descobrir qual é o maior inseto em termos de envergadura?",
+        enunciado: "Sabendo que esses mitos e histórias surgiam para explicar um evento, quais eram os eventos mais comumente relacionados a eles?",
         alternativas: [
             {
-                texto: "Borboleta imperador",
+                texto: "Eventos Sociais",
                 afirmacao: [
-                    "A borboleta imperador pode ter uma envergadura de até 30 cm, sendo uma das maiores borboletas do mundo.",
+                    "Existem diversos mitos na história que relatam eventos sociais que ocorreram em um passado distante, como por exemplo a odisseia que conta o após o fim da guerra de troia ou até mesmo os mitos da guerra de troia que durou 10 anos, no entanto os mitos não são realmente conhecidos por isso.",
                 ]
             },
             {
-                texto: "Besouro-golias",
+                texto: "Eventos Naturais",
                 afirmacao: [
-                    "O besouro-golias é um dos maiores insetos em termos de peso, mas não em envergadura."
+                    "Sim, a maioria dos mitos surge para explicar todas as coisas que a natureza faz, desde o surgimento dos oceanos até o para onde vamos após a morte, normalmente esses mitos colocam um divindade, um ser superior a nós humanos, que nos julga e realiza as punições com base em nossas ações."
                 ]
             },
         ]
